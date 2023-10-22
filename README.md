@@ -1,2 +1,2 @@
-# geodum
-geo/github.com 
+# geodump 
+geodump/github.com
